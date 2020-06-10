@@ -15,14 +15,14 @@ In order to address this, scikit-learn provides utilities for the most common wa
 * **counting** the occurrences of tokens in each document.
 * **normalizing** and weighting with diminishing importance tokens that occur in the majority of samples / documents.
 A corpus of documents can thus be represented by a matrix with one row per document and one column per token (e.g. word) occurring in the corpus.
-We call **vectorization** the general process of turning a collection of text documents into numerical feature vectors. This specific strategy (tokenization, counting and normalization) is called the **Bag of Words** or **Bag of n-grams** representation. 
+We call **vectorization** the general process of turning a collection of text documents into numerical feature vectors. This specific strategy (tokenization, counting and normalization) is called the **Bag of Words** or **Bag of n-grams** representation.\
 
-`tf(t,d) - no of times a term 't' occurs in a document 'd'`
-`idf(t,d) - inverse document frequncy`
+`tf(t,d) - no of times a term 't' occurs in a document 'd'`\
+`idf(t,d) - inverse document frequncy`\
 `tf-idf(t,d) = tf(t,d) x idf(t,d)`
 
 ## How To Run This Application
-After downloading the file, type in your Command prompt:
+After downloading the file, type in your Command prompt:\
 `streamlit run US_Airlines_Tweets.py`
 
 ## Software And Libraries
@@ -37,6 +37,6 @@ This project uses the following software and libraries:
 * [Natural Language Toolkit](https://www.nltk.org/)
 
 ## Contact
-Email: pranaykankariya97@gmail.com
-Project Link: [https://github.com/pranaykankariya97/Sentiment-Analysis-Movie-Reviews](https://github.com/pranaykankariya97/Sentiment-Analysis-Movie-Reviews)
+Email: pranaykankariya97@gmail.com \
+Project Link: [https://github.com/pranaykankariya97/Web-App-For-Sentiment-Analysis-Of-Tweets](https://github.com/pranaykankariya97/Web-App-For-Sentiment-Analysis-Of-Tweets)
 
