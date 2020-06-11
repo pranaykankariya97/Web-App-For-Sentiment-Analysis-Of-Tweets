@@ -3,11 +3,14 @@
 
 ## Project Overview
 This is a application for sentiment analysis of tweets and creating maps and histograms based on it.
+---
 \
 ![Number Of Tweets](https://github.com/pranaykankariya97/Web-App-For-Sentiment-Analysis-Of-Tweets/blob/master/Number%20of%20Tweets.png)
 \
+---
 ![Location Of Tweets](https://github.com/pranaykankariya97/Web-App-For-Sentiment-Analysis-Of-Tweets/blob/master/Map.png)
 \
+---
 ![Comparison between different Airlines](https://github.com/pranaykankariya97/Web-App-For-Sentiment-Analysis-Of-Tweets/blob/master/Histogram.png)
 
 
